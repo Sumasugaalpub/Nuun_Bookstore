@@ -29,6 +29,6 @@ A modern **Bookstore Web Application** built using **React**, **Node.js**, and *
 - **Backend**: Node.js, Express
 - **Database**: MongoDB (Mongoose for object data modeling)
 - **Authentication**: JWT (JSON Web Tokens)
-- **Payment Integration**: Stripe (Optional feature for future implementation)
+
 
 
